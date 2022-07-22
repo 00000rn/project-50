@@ -1,0 +1,29 @@
+
+.header{
+    background-color: aqua;
+}
+
+h1{
+ color: blueviolet;
+ text-align: center;
+ font-size: 3rem;
+ background-color: aqua;
+}
+
+.grid {
+display: flex;
+flex-wrap: wrap;
+}
+
+.grid img{
+border: 2px solid black;
+border-radius: 50px;
+}
+
+.orabox {
+    border-radius: 50px ;
+    background-color: white;
+    width: 310px;
+    text-align: center;
+    justify-content: center;
+}
